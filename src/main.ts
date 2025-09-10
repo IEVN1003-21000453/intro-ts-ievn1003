@@ -1,5 +1,10 @@
 import './style.css'
 import './temasTs/01-tipos-bas.ts'
+import './temasTs/02-obj-interfaz-arre.ts'
+import './temasTs/03-funciones.ts'
+import './temasTs/04-desestructuracion-obj.ts'
+import './temasTs/05-destructura-funciones.ts'
+
 
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
