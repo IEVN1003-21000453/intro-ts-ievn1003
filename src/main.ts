@@ -5,7 +5,6 @@ import './temasTs/03-funciones.ts'
 import './temasTs/04-desestructuracion-obj.ts'
 import './temasTs/05-destructura-funciones.ts'
 
-
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
